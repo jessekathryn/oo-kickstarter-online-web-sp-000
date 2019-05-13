@@ -1,4 +1,4 @@
-class Projects
+class Project
   
   attr_accessor :backer, :backed_projects
   attr_reader :title
